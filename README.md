@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishathyasintha" alt="nishathyasintha" /></a> </p>
 
 
-- 🌱 I’m currently learning **Java, Flutter, Springboot, MVC, AWS**
+- 🌱 I’m currently learning **Java(Springboot), Flutter, Angular, AWS**
 
 - 📫 How to reach me **nishathyasintha@gmail.com**
 
